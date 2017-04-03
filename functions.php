@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Echos coffee incredient.
+ * Echos dimsum incredient.
  *
  * @param Type of Dim Sum
  */
